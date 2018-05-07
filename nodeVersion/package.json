@@ -1,0 +1,25 @@
+{
+  "name": "nodeversion",
+  "version": "1.0.0",
+  "description": "Node Version of the All In One Web Developer App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElvinSamuel/AllInOneWebDev.git"
+  },
+  "keywords": [
+    "NodeVersion",
+    "All",
+    "In",
+    "One"
+  ],
+  "author": "Elvin M. Samuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElvinSamuel/AllInOneWebDev/issues"
+  },
+  "homepage": "https://github.com/ElvinSamuel/AllInOneWebDev#readme"
+}
