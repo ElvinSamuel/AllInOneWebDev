@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/ElvinSamuel/AllInOneWebDev/issues"
   },
-  "homepage": "https://github.com/ElvinSamuel/AllInOneWebDev#readme"
+  "homepage": "https://github.com/ElvinSamuel/AllInOneWebDev#readme",
+  "dependencies": {
+    "node-sass": "^4.9.0"
+  }
 }
